@@ -1,2 +1,3 @@
-Project to recreate a website made by Bending Spoons [here](https://transcend.bendingspoons.com/) use [particle.js](https://vincentgarreau.com/particles.js/)
 # particle-js-test
+
+Project to recreate the particle effect used on a website made by Bending Spoons [here](https://transcend.bendingspoons.com/) using [particle.js](https://vincentgarreau.com/particles.js/).
